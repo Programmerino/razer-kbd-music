@@ -1,0 +1,2 @@
+# razer-kbd-music
+This uses the [razer-laptop-control](https://github.com/rnd-ash/razer-laptop-control) module and [razer-led-cli](https://github.com/Programmerino/razer-led-cli) to control the keyboard LEDs according to the music in conjunction with the [barva](https://github.com/Kharacternyk/barva) music visualizer. This project uses [Nix](https://nixos.org/download.html) for dependencies, and can be ran with `nix run github:Programmerino/razer-kbd-music` or installed with `nix profile install github:Programmerino/razer-kbd-music` once flakes are enabled with Nix.

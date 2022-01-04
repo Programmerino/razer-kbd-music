@@ -113,11 +113,11 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1641255189,
-        "narHash": "sha256-hrOzVssD+HZV4WB4BGVZdK/9Q/2nqQ4QAEEB75Lbqu4=",
+        "lastModified": 1641255503,
+        "narHash": "sha256-YlEQQIz8dgcsxEHeTMtrwgyUDImfNVm2Kt1lwGzm7nU=",
         "owner": "Programmerino",
         "repo": "razer-led-cli",
-        "rev": "c660fcbb9a7131b3aa35614797b4e3490ca4bddd",
+        "rev": "874ecad262ee9cb1a9170b892ef32ab122537f30",
         "type": "github"
       },
       "original": {
